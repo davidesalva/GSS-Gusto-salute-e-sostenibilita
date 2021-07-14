@@ -1,4 +1,4 @@
-# GSS---Gusto-salute-e-sostenibilita
+# GSS-Gusto-salute-e-sostenibilita
 Progetto Web data e ETL - Master BIBDA 
 
 Stakeholders

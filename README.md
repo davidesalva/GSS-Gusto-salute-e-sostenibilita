@@ -2,7 +2,7 @@
 Progetto Web data e ETL - Master BIBDA 
 
 Stakeholders
-Sportivi, giovani e salutisti cercano una soluzione integrata che fornisca un set di ricette con adeguata nutrizione e rispetto per l'ambiente.
+Sportivi, giovani e salutisti cercano uno strumento integrato che fornisca un set di ricette con nutrizione adeguata e rispetto per l'ambiente 
 
 Obiettivi
 Costruire una dashboard interattiva, all'interno della quale sia possibile visualizzare:
